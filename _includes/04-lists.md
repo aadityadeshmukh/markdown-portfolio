@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+I like to:
+- Code :computer:
+- Click photos :camera:
+- Read books :book:
